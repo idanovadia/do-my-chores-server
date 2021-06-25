@@ -3,6 +3,7 @@ package com.domychoresserver.domychoresserver.Security.Jwt;
 import java.util.Date;
 
 import com.domychoresserver.domychoresserver.Security.Services.UserDetailsImpl;
+import io.jsonwebtoken.impl.TextCodec;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
