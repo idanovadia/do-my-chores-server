@@ -83,6 +83,7 @@
     </dependencies>
 
     <build>
+        <finalName>do-my-chores-server</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
